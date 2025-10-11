@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/solovievportfolio/static/css/main.e58ebf11.css",
+    "main.js": "/solovievportfolio/static/js/main.b0ecac9f.js",
+    "index.html": "/solovievportfolio/index.html",
+    "main.e58ebf11.css.map": "/solovievportfolio/static/css/main.e58ebf11.css.map",
+    "main.b0ecac9f.js.map": "/solovievportfolio/static/js/main.b0ecac9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e58ebf11.css",
+    "static/js/main.b0ecac9f.js"
+  ]
+}
