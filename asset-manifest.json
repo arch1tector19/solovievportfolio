@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/solovievportfolio/static/css/main.e58ebf11.css",
-    "main.js": "/solovievportfolio/static/js/main.b0ecac9f.js",
+    "main.js": "/solovievportfolio/static/js/main.b52ca64a.js",
+    "static/media/pic3.jpg": "/solovievportfolio/static/media/pic3.103779c6a24a0b1be301.jpg",
+    "static/media/pic2.jpg": "/solovievportfolio/static/media/pic2.2622932b1060d2d8132c.jpg",
+    "static/media/pic1.jpg": "/solovievportfolio/static/media/pic1.c089c58d12b49a27d86e.jpg",
     "index.html": "/solovievportfolio/index.html",
     "main.e58ebf11.css.map": "/solovievportfolio/static/css/main.e58ebf11.css.map",
-    "main.b0ecac9f.js.map": "/solovievportfolio/static/js/main.b0ecac9f.js.map"
+    "main.b52ca64a.js.map": "/solovievportfolio/static/js/main.b52ca64a.js.map"
   },
   "entrypoints": [
     "static/css/main.e58ebf11.css",
-    "static/js/main.b0ecac9f.js"
+    "static/js/main.b52ca64a.js"
   ]
 }
