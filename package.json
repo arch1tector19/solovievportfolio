@@ -2,7 +2,7 @@
   "name": "soloviev-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dmitriyromanov17.github.io/solovievportfolio/",
+  "homepage": "https://dmitriyromanov17.github.io/",
   "dependencies": {
     "framer-motion": "^12.23.12",
     "react": "^19.1.1",
