@@ -1,6 +1,11 @@
 import React from "react";
 import "./SolovievPortfolio.css";
 
+// Импортируем изображения из папки src/assets
+import pic1 from "./assets/pic1.jpg";
+import pic2 from "./assets/pic2.jpg";
+import pic3 from "./assets/pic3.jpg";
+
 function SolovievPortfolio() {
   return (
     <div className="portfolio-wrapper">
@@ -8,7 +13,7 @@ function SolovievPortfolio() {
       <section
         className="section"
         style={{
-          backgroundImage: `url(${process.env.PUBLIC_URL}/images/pic1.jpg)`,
+          backgroundImage: `url(${pic1})`,
         }}
       >
         <div className="overlay"></div>
@@ -22,7 +27,7 @@ function SolovievPortfolio() {
       <section
         className="section"
         style={{
-          backgroundImage: `url(${process.env.PUBLIC_URL}/images/pic2.jpg)`,
+          backgroundImage: `url(${pic2})`,
         }}
       >
         <div className="overlay"></div>
@@ -42,7 +47,7 @@ function SolovievPortfolio() {
       <section
         className="section"
         style={{
-          backgroundImage: `url(${process.env.PUBLIC_URL}/images/pic3.jpg)`,
+          backgroundImage: `url(${pic3})`,
         }}
       >
         <div className="overlay"></div>
@@ -65,3 +70,4 @@ function SolovievPortfolio() {
 }
 
 export default SolovievPortfolio;
+
